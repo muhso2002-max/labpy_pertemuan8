@@ -22,27 +22,17 @@ Rumus:
 nilai_akhir = (0.30 * tugas) + (0.35 * uts) + (0.35 * uas)
 ```
 
-## Flowchart Program
-
-1. Mulai
-2. Inisialisasi list `daftar_data`
-3. Input nama, NIM, nilai tugas, uts, uas
-4. Hitung nilai akhir
-5. Simpan data ke list
-6. Tanya "Tambah data lagi? (y/t)"
-7. Jika "y", ulangi ke langkah 3
-8. Jika "t", tampilkan tabel data
-9. Selesai
-
 ## Cara Menjalankan Program
-
 1. Pastikan Python sudah terinstal.
 2. Simpan script `.py` yang diberikan.
 3. Jalankan program dengan perintah:
-
 ```
 python namafile.py
 ```
-
 4. Masukkan data sesuai instruksi.
-5. Lihat hasil tabel saat memilih "t".
+5. Jika ingin menambah data pilih (y) jika tidak pilih (t)
+6. jika data sudah ditambahkan dan pilih (t) maka akan muncul tabel yang menampung data-data yang sudah diinput
+
+## Bukti Run Program
+<img width="794" height="516" alt="Cuplikan layar 2025-11-16 221138" src="https://github.com/user-attachments/assets/2e7bf88b-9d82-40cd-9a2f-e7e1de45be35" />
+
